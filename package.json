@@ -1,9 +1,9 @@
 {
-	"name": "vscode-mysql-client2",
+	"name": "sigma-mysql-client2",
 	"displayName": "MySQL",
 	"description": "Database Client for vscode",
 	"version": "3.9.8",
-	"publisher": "cweijan",
+	"publisher": "sigma",
 	"icon": "resources/logo.png",
 	"engines": {
 		"vscode": "^1.51.0"
@@ -26,7 +26,7 @@
 	"homepage": "https://github.com/cweijan/vscode-database-client/blob/master/README.md",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/cweijan/vscode-database-client.git"
+		"url": "https://github.com/yukebrillianth/vscode-database-client.git"
 	},
 	"activationEvents": [
 		"onCommand:mysql.connection.add",
