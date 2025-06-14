@@ -1,9 +1,9 @@
 name: CI
 on:
   push:
-    branches: [ master,webpack ]
+    branches: [ main,webpack ]
   pull_request:
-    branches: [ master,webpack ]
+    branches: [ main,webpack ]
 jobs:
   build:
     runs-on: ubuntu-latest
